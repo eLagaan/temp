@@ -4,7 +4,7 @@
 * Use tabs and not spaces, as this allows the most flexibility across clients.
 * Braces should be used for multiline blocks in the style shown here:
 ```php
-
+    
     if ( condition ) {
     action1();
     } elseif ( condition2 && condition3 ) {
@@ -12,8 +12,8 @@
     } else {
         defaultaction();
     }
-
 ```
+
 * Don't close php "?>""
 * Remove trailing spaces at the end of each line of code.
 * Naming Conventions. 
